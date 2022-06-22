@@ -1,11 +1,12 @@
 {
-  "name": "npm-test",
+  "name": "rahul-btn",
   "version": "0.1.0",
   "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/custombtn/npm-test.git"
 },
+"publishConfig": {"access": "public"},
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.4",
